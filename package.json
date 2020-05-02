@@ -1,0 +1,11 @@
+{
+  "name": "buggy-node-script",
+  "version": "1.0.0",
+  "description": "buggy file writing script fix",
+  "main": "buggy-script.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "bleek42",
+  "license": "ISC"
+}
